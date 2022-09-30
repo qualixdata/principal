@@ -62,7 +62,7 @@
 .topoPag .centraliza     { width: 90%; height:auto; top:26%; position:absolute; margin:0 5%; }
 .topoPag  img            { width:50%; }
 .topoPag .centraliza h1  { width: 100%; font-size:2em; color:var(--branco); float:left; text-align:center; text-transform:uppercase; font-family:'open_sansbold'; text-shadow: 2px 1px 5px #535353;}
-.topoPag .centraliza p   { width:100%; font-size:1em; color:var(--branco); float:left; text-align:center; text-transform:uppercase; font-family:'open_sansregular'; }
+.topoPag .centraliza p   { width:100%; font-size:1em; color:var(--preto); float:left; text-align:center; text-transform:uppercase; font-family:'open_sansregular'; }
 .topoPag .centraliza p b { display:none; }
 
 /*Cardápio*/
